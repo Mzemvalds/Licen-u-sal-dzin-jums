@@ -1,4 +1,4 @@
-# Licen-u-sal-dzin-jums
+# Licencu-salidzinajums
 # Brīvkoda un slēgtā koda programmatūra
 
 ## Kas ir brīvkoda (open source) programmatūra?
