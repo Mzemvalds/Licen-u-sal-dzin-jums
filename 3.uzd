@@ -27,7 +27,7 @@ Apache 2.0 ir arī atvērta un elastīga licence, līdzīga MIT, bet tā ietver 
 
 MIT vs Apache – salīdzinājums
 
-| Kritērijs                      MIT licence                          Apache 2.0 licence                      
+ Kritērijs                      MIT licence                          Apache 2.0 licence                      
 
 1. Lietošanas brīvība            Ļoti brīva                             Ļoti brīva                               
 2. Atvasināto darbu licence      Var izvēlēties jebkuru                 Var izvēlēties jebkuru                  
@@ -36,7 +36,7 @@ MIT vs Apache – salīdzinājums
 5. Izmaiņu dokumentēšana         Nav obligāta                           Ir obligāta                              
 6. Licences teksts               Jāsaglabā                              Jāsaglabā                                
 
-## Secinājums
+Secinājums
 
 Abas licences ir piemērotas gan personīgiem, gan komerciāliem projektiem.  
 - MIT licence – vienkārša un elastīga, piemērota mazākiem vai neformāliem projektiem.
