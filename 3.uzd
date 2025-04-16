@@ -1,0 +1,43 @@
+Brīvkoda licences un salīdzinājums
+
+Kas ir brīvkoda licences?
+
+Brīvkoda licence ir juridisks noteikumu kopums, kas nosaka, kā programmatūru drīkst izmantot, modificēt un izplatīt. Licences palīdz pasargāt autoru tiesības un vienlaikus sniedz lietotājiem plašas iespējas sadarboties.
+
+Brīvkoda licences var būt:
+-Ļoti brīvas un vienkāršas (piemēram, MIT)
+-Ar papildu nosacījumiem (piemēram, Apache 2.0, kas iekļauj arī patentu aizsardzību)
+
+ MIT licence
+
+MIT ir viena no visvienkāršākajām un populārākajām brīvkoda licencēm. Tā ļauj:
+- izmantot programmatūru jebkuram nolūkam,
+- kopēt un izplatīt to,
+- veikt izmaiņas un izmantot tās,
+- pat izmantot programmatūru slēgtos projektos.
+
+Vienīgais nosacījums – ir jāsaglabā oriģinālais licences teksts un autortiesību paziņojums.
+
+Apache 2.0 licence
+
+Apache 2.0 ir arī atvērta un elastīga licence, līdzīga MIT, bet tā ietver dažus papildu nosacījumus:
+- Tā sniedz aizsardzību pret patentu prasībām, kas ir svarīgi lielākiem vai komerciāliem projektiem.
+- Tā prasa, lai jebkuras būtiskas izmaiņas vai papildinājumi tiktu skaidri atzīmēti.
+- Tā arī prasa, lai licences teksts tiktu saglabāts kopā ar programmatūru.
+
+MIT vs Apache – salīdzinājums
+
+| Kritērijs                      MIT licence                          Apache 2.0 licence                      
+
+1. Lietošanas brīvība            Ļoti brīva                             Ļoti brīva                               
+2. Atvasināto darbu licence      Var izvēlēties jebkuru                 Var izvēlēties jebkuru                  
+3. Slēgtā koda izmantošana       Atļauta                                Atļauta                                  
+4. Patentiem saistīti noteikumi  Nav iekļauti                           Ir iekļauta patenta licences aizsardzība 
+5. Izmaiņu dokumentēšana         Nav obligāta                           Ir obligāta                              
+6. Licences teksts               Jāsaglabā                              Jāsaglabā                                
+
+## Secinājums
+
+Abas licences ir piemērotas gan personīgiem, gan komerciāliem projektiem.  
+- MIT licence – vienkārša un elastīga, piemērota mazākiem vai neformāliem projektiem.
+- Apache 2.0 licence – piemērotāka lielākiem projektiem, kur svarīga ir patentu aizsardzība un juridiskā skaidrība.
